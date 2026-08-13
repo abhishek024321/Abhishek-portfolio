@@ -183,8 +183,6 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
     });
   }, { rootMargin: '-45% 0px -50% 0px', threshold: 0 });
   sections.forEach(s => { if (s) sectionIo.observe(s); });
-
-  // Magnetic buttons
   if (!reduceMotion){
     document.querySelectorAll('.magnetic').forEach(btn => {
       btn.addEventListener('mousemove', (e) => {
@@ -197,7 +195,7 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
     });
   }
 
-  // 3D tilt on project cards
+  
   if (!reduceMotion){
     document.querySelectorAll('.proj-card.tilt').forEach(card => {
       const inner = card.querySelector('.proj-inner');
@@ -211,7 +209,7 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
     });
   }
 
-  // Scroll progress bar + subtle parallax on background layers
+  
   const progress = document.getElementById('scrollProgress');
   const mesh = document.getElementById('mesh');
   const gridOverlay = document.getElementById('gridOverlay');
@@ -228,7 +226,6 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
-  // Code tab switcher
   document.querySelectorAll('.code-tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const target = btn.dataset.tab;
