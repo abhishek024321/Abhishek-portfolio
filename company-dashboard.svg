@@ -1,0 +1,9 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Company Dashboard logo B</title>
+<desc>Rounded square badge with CD monogram and small pulse line, teal on white</desc>
+<rect width="400" height="400" fill="#ffffff"/>
+<rect x="140" y="110" width="120" height="120" rx="26" fill="#0f172a"/>
+<path d="M165 175 L185 175 L195 155 L210 195 L220 175 L235 175" fill="none" stroke="#2dd4bf" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="800" fill="#0f172a">Company</text>
+<text x="200" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="800" fill="#0d9488">Dashboard</text>
+</svg>

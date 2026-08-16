@@ -1,0 +1,9 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Overture Growth logo A</title>
+<desc>Bold diagonal growth arrow in red-orange beside the wordmark Overture Growth on white</desc>
+<rect width="400" height="400" fill="#ffffff"/>
+<path d="M150 220 L175 150 L200 195 L250 120" fill="none" stroke="#dc2626" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M225 120 L250 120 L250 145" fill="none" stroke="#dc2626" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#dc2626">Overture</text>
+<text x="200" y="313" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="300" fill="#64748b">Growth</text>
+</svg>

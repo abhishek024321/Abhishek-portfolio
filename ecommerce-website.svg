@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Ecommerce Website logo A</title>
+<desc>Shopping bag icon in orange above the wordmark Ecommerce Website on white</desc>
+<rect width="400" height="400" fill="#ffffff"/>
+<path d="M155 150 L245 150 L255 235 Q256 245 246 245 L154 245 Q144 245 145 235 Z" fill="#ea580c"/>
+<path d="M175 150 L175 130 Q175 108 200 108 Q225 108 225 130 L225 150" fill="none" stroke="#0f172a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="180" cy="175" r="7" fill="#ffffff"/>
+<circle cx="220" cy="175" r="7" fill="#ffffff"/>
+<text x="200" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#0f172a">Ecommerce</text>
+<text x="200" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#ea580c">Website</text>
+</svg>
